@@ -15,3 +15,6 @@ sudo cp -r /vagrant/www/* /var/www/html/
 
 # Dar permisos
 sudo chown -R www-data:www-data /var/www/html
+
+echo "Servidor web configurado correctamente"
+
